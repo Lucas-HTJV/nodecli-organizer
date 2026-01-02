@@ -1,0 +1,14 @@
+{
+  "name": "nodecli-toolkit",
+  "version": "1.0.0",
+  "description": "CLI utilitário em Node.js para automações",
+  "type": "module",
+  "bin": {
+    "nodecli": "./bin/nodecli.js"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Lucas-HTJV",
+  "license": "MIT"
+}
